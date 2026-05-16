@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Abu Huraira
 
-<!--
-**abuhamjad/abuhamjad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical software using Python, AI tools, automation systems, and web technologies.
 
-Here are some ideas to get you started:
+Currently exploring:
+- AI integrations
+- Automation systems
+- Streamlit web apps
+- APIs & backend development
+- Real-world productivity tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+### Languages
+- Python
+- SQL
+- HTML/CSS
+
+### Frameworks & Tools
+- Streamlit
+- Flask
+- Git & GitHub
+- Pandas
+- OpenAI APIs
+- Google Sheets API
+
+---
+
+## Featured Projects
+
+### Order Management System
+Business tracking system with:
+- CSV & Google Sheets integration
+- Dashboard analytics
+- Profit tracking
+- Order management
+
+### AI Automation Tools
+Python scripts and utilities for:
+- Workflow automation
+- Data handling
+- AI-assisted productivity
+
+
+---
+
+## Currently Working On
+- AI-powered applications
+- Internship projects
+- Backend development skills
+- Open-source learning
+
+---
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/abuhamjad/
+- Email: abuh.amjad14@gmail.com
